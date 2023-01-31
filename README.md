@@ -1,6 +1,6 @@
 ![BrowserStack Logo](https://d98b8t1nnulk5.cloudfront.net/production/images/layout/logo-header.png?1469004780)
 
-# Manual to Automation @ <a href="https://sky.co.uk/"><img src="https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo.png" alt="playwright" height="27" /></a> Java - Lesson 3 - Page Object Model
+# Manual to Automation @ <a href="https://portales.bancochile.cl/personas"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Banco_de_Chile_Logo.png/800px-Banco_de_Chile_Logo.png" alt="BdB" height="27" /></a> - Lesson 3 - Page Object Model
 
 ## Introduction
 
@@ -27,10 +27,10 @@ To get the project ready to run on your machine, follow the steps below:
 * Go to the directory where you want to place the code using [cd](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cd) for Windows, and it functions mostly the same for Mac. You just use "cd" but the folder structure on Mac is different (/Users/username/Documents instead of C:/Users/username/Documents)
 * Copy the following command into the terminal, (remember, you must have [Git](https://git-scm.com/downloads) installed)
 ```sh
-git clone https://github.com/Manual-To-Automation-Sky/Java-Lesson-3-Page-Object-Model.git.
+git clone https://github.com/Manual-To-Automation-BancoDeChile/Lesson-3-POM.git.
 ```
 * Move into the directory that you just cloned by typing
 ```sh
-cd Java-Lesson-3-Page-Object-Model
+cd Lesson-3-POM
 ```
 * To run your test, you can use the Run button in your IDE of choice or right click anywhere in your file and click Run.
